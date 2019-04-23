@@ -1,0 +1,16 @@
+
+.wrap-all {
+    width: 60%;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 10px;
+}
+
+body {
+    background-color: #000;
+    background-image: url("../img/cellyPic.png");
+    background-attachment: fixed;
+    background-position: top left;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}

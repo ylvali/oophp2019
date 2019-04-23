@@ -15,12 +15,13 @@ return [
         "data" => [
             "baseTitle" => " | oophp",
             "bodyClass" => null,
-            "favicon" => "favicon.ico",
+            "favicon" => "img/cellyPicPart.png",
             "htmlClass" => null,
             "lang" => "sv",
             "stylesheets" => [
                 // Change here to set another default stylesheet
                 "css/dbwebb-se.min.css",
+                "css/extra.css"
                 //"css/another.min.css",
             ],
             "javascripts" => [
@@ -36,8 +37,8 @@ return [
             "template" => "anax/v2/header/site_logo",
             "data" => [
                 "class" => "large",
-                "siteLogo"      => "image/theme/leaf_256x256.png",
-                "siteLogoAlt"   => "Löv",
+                "siteLogo"      => "image/cellyPicPart.png",
+                "siteLogoAlt"   => "CellySomething",
             ],
         ],
         [
@@ -45,9 +46,9 @@ return [
             "template" => "anax/v2/header/site_logo_text",
             "data" => [
                 "homeLink"      => "",
-                "siteLogoText"  => "oophp",
-                "siteLogoTextIcon" => "image/theme/leaf_40x40.png",
-                "siteLogoTextIconAlt" => "Löv-bild",
+                "siteLogoText"  => "oophp : ylvas",
+                "siteLogoTextIcon" => "image/cellyPicPart.png",
+                "siteLogoTextIconAlt" => "CellySomething",
             ],
         ],
         [
