@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <phpdoc>
-    <title>Anax API Documentation</title>
+    <title>Anax API Documentation for ANAX</title>
     <parser>
         <target>doc/api</target>
     </parser>
@@ -8,10 +8,8 @@
         <target>doc/api</target>
     </transformer>
     <files>
-        <directory>src</directory>
+        <directory>src<directory>
+        <directory>vendor/anax<directory>
     </files>
-    <files>
-        <directory>router</directory>
-    </files>
-    <directory>vendor/anax</directory>
+
 </phpdoc>
