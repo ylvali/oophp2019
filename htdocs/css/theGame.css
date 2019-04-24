@@ -1,0 +1,48 @@
+
+.theGuessGame {
+    width: 100%;
+    margin: 0 auto;
+    height: 400px;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    border-radius: 35px;
+
+    /* BOX SHADOW by https://www.cssmatic.com/box-shadow */
+
+    -webkit-box-shadow: 51px 31px 51px 44px rgba(133, 21, 133, 1);
+    -moz-box-shadow: 51px 31px 51px 44px rgba(133, 21, 133, 1);
+    box-shadow: 51px 31px 51px 44px rgba(133, 21, 133, 1);
+}
+
+
+.gameBtn {
+    min-width: 200px;
+    height: 50px;
+    color: black;
+    text-decoration: none;
+    padding: 10px;
+    margin: 5px;
+}
+
+
+.theGuessGame a {
+    color: purple;
+}
+
+
+.theGuessGame a:visited {
+    color: purple;
+}
+
+
+.button1 {
+    min-width: 100px;
+    height: 50px;
+    background-color: #fff;
+    color: black;
+    text-decoration: none;
+    padding: 10px;
+    margin: 5px;
+}

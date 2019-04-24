@@ -10,4 +10,8 @@
     <files>
         <directory>src</directory>
     </files>
+    <files>
+        <directory>router</directory>
+    </files>
+    <directory>vendor/anax</directory>
 </phpdoc>

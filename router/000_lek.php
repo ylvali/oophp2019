@@ -42,3 +42,11 @@ $app->router->get("lek/hello-world-page", function () use ($app) {
         "title" => $title,
     ]);
 });
+
+
+
+/*
+* Testing a new route
+*
+*
+*/

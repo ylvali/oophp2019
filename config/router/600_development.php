@@ -1,7 +1,10 @@
 <?php
 /**
+ *
  * Routes to ease development and debugging.
+ *
  */
+ 
 return [
     "routes" => [
         [
