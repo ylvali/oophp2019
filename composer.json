@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "name" : "dbwebb/oophp",
     "description": "Course material for oophp.",
     "homepage": "https://github.com/dbwebb-se/oophp",
@@ -16,5 +17,20 @@
     },
     "require": {
         "php": "^7.2"
+=======
+    "name" : "anax/noname",
+    "description": "A me page for the oophp course.",
+    "license": "MIT",
+    "minimum-stability": "beta",
+    "prefer-stable": true,
+    "autoload": {
+        "psr-4": {"Anax\\": "src/"}
+    },
+    "require": {
+        "anax/anax-oophp-me": "^2.0.0@beta"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7"
+>>>>>>> caa6605cf75df41b68a7c387ad94a675662e54d7
     }
 }

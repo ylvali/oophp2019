@@ -1,0 +1,11 @@
+<?php
+
+namespace Anax\Test;
+
+class Test
+{
+    public function test()
+    {
+        return "test";
+    }
+}

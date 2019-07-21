@@ -1,0 +1,35 @@
+html {
+    background-color: #fff;
+    background-image: url("../img/cellyPic.png");
+    background-attachment: fixed;
+    background-position: top center;
+    background-repeat: no-repeat;
+    overflow-y: scroll;
+}
+
+body {
+    width: 400px;
+    min-height: 300px;
+    margin: 0 auto;
+    margin-top: 150px;
+    padding: 20px;
+    background-color: purple;
+    color: #fff;
+    text-align: center;
+    border-radius: 25px;
+}
+
+.button1 {
+    background-color: white;
+    color: purple;
+    padding: 7px;
+    margin: 10px;
+    letter-spacing: 2px;
+    border-radius: 25px;
+}
+
+.inputF {
+    border-radius: 25px;
+    padding: 5px;
+    margin: 5px;
+}

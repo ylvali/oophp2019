@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Databases and object-oriented web technologies (oophp)
 ===================
 
@@ -31,3 +32,11 @@ Feel free to help building up the repository with more content suited for traini
  .                                                             
 ..:  Copyright (c) 2015 - 2019 Mikael Roos, mos@dbwebb.se      
 ```                                                            
+=======
+
+Object oriented programming using mainly PHP.
+Course reports and other info about the framework ANAX, to be uploaded to GitHub as part of the work.
+
+2019 Distance course BTH
+Ylva Sjölin
+>>>>>>> caa6605cf75df41b68a7c387ad94a675662e54d7

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /bin/
 /build/
 build/
@@ -13,3 +14,10 @@ log-gui-main.ansi
 
 # Mac
 .DS_Store
+=======
+/.bin
+/build
+/vendor
+memory::
+composer.lock
+>>>>>>> caa6605cf75df41b68a7c387ad94a675662e54d7
